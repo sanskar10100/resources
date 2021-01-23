@@ -16,7 +16,7 @@ First, an introduction. HashCode is an annual coding competition where you have 
 - First, regsiter yourself at the [HashCode Website](https://codingcompetitions.withgoogle.com/hashcode). You'll need a Google account for this.
 - After updating your details and confirming registration, head to the [Judge System](https://hashcodejudge.withgoogle.com/). You must be signed in with the Google account you used to register.
 - In the Judge System, you can either create or join a team
-- Join the hub at t.me/bbdu_hashcode
+- Join the hub at https://t.me/bbdu_hashcode
 
 #### To Create a Team:
 - Head to the [Judge System](https://hashcodejudge.withgoogle.com/). Click on My Team, then click on Create a Team.
@@ -33,6 +33,6 @@ First, an introduction. HashCode is an annual coding competition where you have 
 - Thoroughly read the problem statement, and write your code by collaborating with your team.
 - Submit the code on the [Judge System](https://hashcodejudge.withgoogle.com/) (this can only be done if the team has been created and there are at least 2 members).
 
-# For any queries or issues, mail [Sanskar Agrawal](linkedin.com/in/sanskar10100) on sanskar10100@gmail.com or Telegram him on +91 7499229768 or @sanskar10100.
+# For any queries or issues, mail [Sanskar Agrawal](https://linkedin.com/in/sanskar10100) on sanskar10100@gmail.com or Telegram him on +91 7499229768 or @sanskar10100.
 
-# Note: Do not forget to join the [Telegram Hub](t.me/bbdu_hashcode) after registering.
+# Note: Do not forget to join the [Telegram Hub](https://t.me/bbdu_hashcode) after registering.
