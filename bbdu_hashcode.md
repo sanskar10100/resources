@@ -5,12 +5,16 @@ First, an introduction. HashCode is an annual coding competition where you have 
 2. Qualification Round (Feb 25-26)
 3. World Finals (April 24)
 
+---
+
 ### Now, pay attention:
 - The thing to remember about HashCode is, that it is a team-based competition, that is, you'll need a team to participate (Minimum 2 and Maximum 4 people in each team).
 - Members of your team may be anyone that's enrolled at BBDU, or even outside students (seek approval from organizer first).
 - You and your team members may choose to code in any programmming language of their choice like python3, C++, C, Java, Kotlin, Go, Rust, JS and many more.
 - Performing well in HashCode can lead to many rewards, ranging from a certificate from Google, a t-shirt, a cash prize to even a job offer from the company.
 - Thus, it's highly recommended to participate with maximum enthusiasm. If nothing else, you'll learn something from the other participants.
+
+---
 
 ### How do I register?
 - First, regsiter yourself at the [HashCode Website](https://codingcompetitions.withgoogle.com/hashcode). You'll need a Google account for this.
@@ -27,10 +31,12 @@ First, an introduction. HashCode is an annual coding competition where you have 
 - If you haven't already, register on the [HashCode Website](https://codingcompetitions.withgoogle.com/hashcode) first.
 - Click on the invite link that the creator of your team sent you, and Voila! You're a member now
 
-#### To enroll your team in a hub
+#### To enroll your team in a hub (Important!)
 - Open [My Team](https://hashcodejudge.withgoogle.com/#/my-team) section in the Judge System of Google HashCode.
 - Naviate to the bottom, and you'll see a section named *Join a virtual hub (optional)*.
 - Select Country *India*, and the Hub *Babu Banarasi Das University Hub*. Then, click on the button at the bottom to join the hub.
+
+---
 
 ### Practice Problem:
 - Download the problem statement from the website.
