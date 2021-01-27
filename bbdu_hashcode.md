@@ -27,6 +27,11 @@ First, an introduction. HashCode is an annual coding competition where you have 
 - If you haven't already, register on the [HashCode Website](https://codingcompetitions.withgoogle.com/hashcode) first.
 - Click on the invite link that the creator of your team sent you, and Voila! You're a member now
 
+#### To enroll your team in a hub
+- Open [My Team](https://hashcodejudge.withgoogle.com/#/my-team) section in the Judge System of Google HashCode.
+- Naviate to the bottom, and you'll see a section named *Join a virtual hub (optional)*.
+- Select Country *India*, and the Hub *Babu Banarasi Das University Hub*. Then, click on the button at the bottom to join the hub.
+
 ### Practice Problem:
 - Download the problem statement from the website.
 - Download the input sets from the website.
@@ -35,4 +40,4 @@ First, an introduction. HashCode is an annual coding competition where you have 
 
 # For any queries or issues, mail [Sanskar Agrawal](https://linkedin.com/in/sanskar10100) on sanskar10100@gmail.com or Telegram him on +91 7499229768 or @sanskar10100.
 
-# Note: Do not forget to join the [Telegram Hub](https://t.me/bbdu_hashcode) after registering.
+# Note: Do not forget to join the [Telegram Group](https://t.me/bbdu_hashcode) after registering.
