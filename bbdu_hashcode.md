@@ -33,8 +33,8 @@ First, an introduction. HashCode is an annual coding competition where you have 
 
 #### To enroll your team in a hub (Important!)
 - Open [My Team](https://hashcodejudge.withgoogle.com/#/my-team) section in the Judge System of Google HashCode.
-- Naviate to the bottom, and you'll see a section named *Join a virtual hub (optional)*.
-- Select Country *India*, and the Hub *Babu Banarasi Das University Hub*. Then, click on the button at the bottom to join the hub.
+- Naviate to the bottom, and you'll see a section named **Join a virtual hub (optional)**.
+- Select Country **India**, and the Hub **Babu Banarasi Das University Hub**. Then, click on the button at the bottom to join the hub.
 
 ---
 
