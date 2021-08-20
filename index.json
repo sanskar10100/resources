@@ -3,30 +3,35 @@
         "id": "1",
         "name": "The Witcher 3 - Wild Hunt",
         "imgSrcUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Witcher_3_cover_art.jpg/220px-Witcher_3_cover_art.jpg",
-        "numberOfPlays": "17M"
+        "numberOfPlays": "17M",
+        "webLaunchUrl": "https://guthib.com/"
     },
     {
         "id": "2",
         "name": "GTA V",
         "imgSrcUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Grand_Theft_Auto_V.png/220px-Grand_Theft_Auto_V.png",
-        "numberOfPlays": "21M"
+        "numberOfPlays": "21M",
+        "webLaunchUrl": "https://guthib.com/"
     },
     {
         "id": "3",
         "name": "DOOM ETERNAL",
         "imgSrcUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Cover_Art_of_Doom_Eternal.png/220px-Cover_Art_of_Doom_Eternal.png",
-        "numberOfPlays": "10.1M"
+        "numberOfPlays": "10.1M",
+        "webLaunchUrl": "https://guthib.com/"
     },
     {
         "id": "4",
         "name": "DOOM",
         "imgSrcUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Doom_Cover.jpg/220px-Doom_Cover.jpg",
-        "numberOfPlays": "2.7M"
+        "numberOfPlays": "2.7M",
+        "webLaunchUrl": "https://guthib.com/"
     },
     {
         "id": "5",
         "name": "Skyrim",
         "imgSrcUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/The_Elder_Scrolls_V_Skyrim_cover.png/220px-The_Elder_Scrolls_V_Skyrim_cover.png",
-        "numberOfPlays": "50M"
+        "numberOfPlays": "50M",
+        "webLaunchUrl": "https://guthib.com/"
     }
 ]
